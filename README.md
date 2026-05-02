@@ -1,5 +1,5 @@
 # 💫 About Me:
-Over 3 years of experience as a Software Developer. I am working on developing an application called Coliver for condominiums, apartment buildings, or private communities in Chile. It’s an app that enhances communication between people through a chat or blog feature and also includes tools to assist and facilitate the work of administrators.
+Full Stack Developer specialized in designing, developing, and deploying web and mobile applications. Focused on scalable architectures, REST API integration, and AI-powered workflows (generative AI, LLMs, AI-driven automation).
 
 
 ## 🌐 Socials:
